@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahnawaz</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
 <h4>I love everything about what Happenstance is doing. I don't have many hobbies outside coding. I am not athletic, bad at singing, don't drink, can't dance. Building is the only thing I am good at. At this point, I want to be a part of taking something from 0-1 or 1 -> 100. I just want to be heads down chasing that goal</h4>
-<br></br>
+<hr></hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahnawaz_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahnawaz_7" height="30" width="40" /></a>
